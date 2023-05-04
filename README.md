@@ -15,10 +15,10 @@ ex) 이 주소에 GET을 보냈을 때 응답이 어떻게 오는지
 <br>
 
 # 예시
-![](https://velog.velcdn.com/images/97gkswn/post/737d6cdc-f52c-4cb2-a8fc-f93d32f62605/image.png)
+- ![](https://velog.velcdn.com/images/97gkswn/post/737d6cdc-f52c-4cb2-a8fc-f93d32f62605/image.png)
 http://localhost:44311/api/v1/reg-accountinfo 라는 주소에
 
--------------------------------------------------------------------------------------------------------------------
+
 ```
 {
 "UserID":"gdhong",
