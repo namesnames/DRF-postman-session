@@ -67,7 +67,7 @@ https://www.postman.com 로 이동해서
 <br>
 <br>
 
-![](https://velog.velcdn.com/images/97gkswn/post/5d277e5b-8b5e-4b67-935f-bac873edf07b/image.png)
+>![](https://velog.velcdn.com/images/97gkswn/post/5d277e5b-8b5e-4b67-935f-bac873edf07b/image.png)
 `+`버튼 클릭
 
 <br>
@@ -77,7 +77,10 @@ https://www.postman.com 로 이동해서
 그리고 위와 같이 Body->raw->Json으로 각각 선택해주면 준비 완료
 
 
-
+<br>
+<br>
+<br>
+<br>
 # 학습 목표 & 진행방식
 
 - DRF(Django Rest Framework) 및 Serializer를 이해한다.
