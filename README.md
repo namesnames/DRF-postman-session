@@ -81,7 +81,8 @@ https://www.postman.com 로 이동해서
 <br>
 <br>
 <br>
-# 학습 목표 & 진행방식
+# DRF과제 
+## 학습 목표 & 진행방식
 
 - DRF(Django Rest Framework) 및 Serializer를 이해한다.
 - 앞서 만든 MBTI 커뮤니티에서 기능 추가 
@@ -92,7 +93,7 @@ https://www.postman.com 로 이동해서
 
 ---
 
-## 3. 실습 과제
+## 실습 과제
 
 
 ### 구현해야 하는 기능
