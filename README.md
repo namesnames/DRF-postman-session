@@ -127,9 +127,8 @@ https://www.postman.com 로 이동해서
 
 ### 유의사항
 
-- 통합 세션에서 배웠던 HTML과 CSS를 활용해 프론트도 같이 개발하되, **프론트는 간단하게만** 구현합니다. 
-포커스는 백엔드 구현 🎯
-- 협업 시 GitHub를 활용해주세요.
+- 이번에는 프론트 개발을 하지 않아도 됩니다. postman으로 결과가 잘 나오기만 하면 됩니다!
+- 협업 시 GitHub를 활용해주세요. 
 - 이때, **커밋 메시지**에 본인의 작업 내용이 명시되도록 작성해주세요.
     - 커밋 메시지를 작성하는 일반적인 규칙에 대해서는 ‘커밋 메시지 작성 규칙' 등을 구글링해 참고해주세요.
 
@@ -142,7 +141,7 @@ https://www.postman.com 로 이동해서
 
 - 작업 과정 및 최종 결과물이 담긴 **GitHub Repository 링크**를 제출합니다.
     - Repository는 멋쟁이사자처럼 10기 Organization 내부에 만들어주세요.
-    - Repository 이름 형식 : be-django-trainingDRF-(팀명)
+    - Repository 이름 형식 : be-django-DRF-(팀명)
 
 
 - **README**에는 다음과 같은 내용이 포함되어야 합니다.
